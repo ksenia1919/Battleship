@@ -1,2 +1,2 @@
 # Battleship
-Игра "морской бой" на VisualStudio C=+
+Игра "морской бой" на VisualStudio C++
